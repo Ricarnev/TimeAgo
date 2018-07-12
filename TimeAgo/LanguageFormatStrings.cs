@@ -1087,7 +1087,7 @@ namespace TimeAgo {
 					SecondsAgo = "{0} секунд назад",
 					MinuteAgo =  "{0} минута назад",
 					MinutesAgo = "{0} минут назад",
-					HourAgo =    "{0} часовая назад",
+					HourAgo =    "{0} час назад",
 					HoursAgo =   "{0} часов назад",
 					DayAgo =     "{0} день назад",
 					DaysAgo =    "{0} дней назад",
